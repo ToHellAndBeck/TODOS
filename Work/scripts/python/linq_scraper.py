@@ -120,13 +120,13 @@ rcb_list_xpath = '/html/body/form/div[1]/div/div/ul'
 email_element_id = '67:2;a'
 driver.get(url)
 time.sleep(3)
-email_address = 'beckett.mcfarland@wachter.com'
+email_address = '****'
 input_text(driver, email_element_id, email_address)
 time.sleep(2)
 #sign_in_button_xpath = '//*[@id="idSIButton9"]'
 #wait_for_element_to_be_clickable(driver, sign_in_button_xpath)
 password_element_id = '80:2;a'
-password = 'Ozymandias99!'
+password = '****'
 input_text(driver, password_element_id, password)
 stay_signed_in_button_xpath = '//*[@id="idSIButton9"]'
 click_button(driver, stay_signed_in_button_xpath)

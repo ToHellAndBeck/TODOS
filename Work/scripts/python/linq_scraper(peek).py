@@ -91,8 +91,8 @@ url = 'https://linqservices.my.site.com/qonnect/s/'
 # Login details
 email_element_id = '67:2;a'
 password_element_id = '80:2;a'
-email_address = 'beckett.mcfarland@wachter.com'
-password = 'Ozymandias99!'
+email_address = '****'
+password = '****'
 
 driver.get(url)
 time.sleep(3)
