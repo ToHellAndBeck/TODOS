@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8f5b7965c2bc1429",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a5556354dc41bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b039578ddd52bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240930160351.todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "843369c5e1b4aef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e18693bfd9be9043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37602cf89c1617d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80c7d21e2e16a5d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "353dc30370a665d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3afbbdd7e256dd51",
+    "type": "split",
+    "children": [
+      {
+        "id": "d551a67f07022fc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43da3a481f9318a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20240930160351.todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df8c5150cdd36d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20240930160351.todo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc02885de7adbc64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "05af6a2ddef7ee97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20240930160351.todo.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24b039578ddd52bf",
+  "lastOpenFiles": [
+    "20240930155223.todo.md",
+    "20240921174149.todo.md",
+    "20240921143844.todo.md",
+    "20240917153747.bookmark.md",
+    "20240917153713.bookmark.md",
+    "20240917153351.bookmark.md",
+    "20240917151642.todo.md",
+    "20240917144055.todo.md",
+    "20240917143835.todo.md",
+    "20240917143812.todo.md",
+    "20240914222236.todo.md",
+    "20240914222126.todo.md",
+    "20240912210113.todo.md",
+    "20240912205601.todo.md",
+    "20240911121148.todo.md",
+    "20240911121106.todo.md",
+    "20240909122502.todo.md",
+    "20240909122434.todo.md",
+    "20240908164208.todo.md",
+    "11.todo.md",
+    "Employee Onboarding Request for Lindsey Jarosz.todo.md",
+    "Employee Onboarding Request for Lindsey Jarosz.md",
+    "Equipment for New Hire.md",
+    "Equipment for New Hire.todo.md",
+    "External Apps Linked.md",
+    "External Apps Linked.todo.md"
+  ]
+}
